@@ -1,14 +1,14 @@
 - ✌️ Hi, I’m @ManXD3la (Fullstack JavaScript Engineer)
-- 👀 I’m interested in  
+- 🙌 I’m looking to collaborate on JavaScript projects
+- 👀 I’m interested in:  
   &nbsp;&nbsp;&nbsp;&nbsp; 🌿 agriculture  
   &nbsp;&nbsp;&nbsp;&nbsp; 📡 robotics  
   &nbsp;&nbsp;&nbsp;&nbsp; 💺 interior design  
   &nbsp;&nbsp;&nbsp;&nbsp; 🍔 pasta sandwhiches  
   &nbsp;&nbsp;&nbsp;&nbsp; 🎶 hip-hop
-- 🌱 I’m currently learning  
+- 🌱 I’m currently learning:  
   &nbsp;&nbsp;&nbsp;&nbsp; 🔬 PHP(wordpress)  
   &nbsp;&nbsp;&nbsp;&nbsp; 🔭 python(electronics)
-- 🙌 I’m looking to collaborate on JavaScript projects
 - 📫 How to reach me:  
   &nbsp;&nbsp;&nbsp;&nbsp; 📧 <mandela.0.jones@gmail.com>  
   &nbsp;&nbsp;&nbsp;&nbsp; 🦤 [@MystellaThe](https://twitter.com/MystellaThe)
